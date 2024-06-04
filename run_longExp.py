@@ -5,8 +5,6 @@ from exp.exp_main import Exp_Main
 import random
 import numpy as np
 
-#女卡
-
 fix_seed = 2021
 random.seed(fix_seed)
 torch.manual_seed(fix_seed)
